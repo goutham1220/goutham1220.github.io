@@ -1,0 +1,25 @@
+name: "Goutham Swaminathan"
+navbar:
+  title: "Goutham Swaminathan"
+  left:
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Photography"
+      href: photography.html
+    - text: "YouTube"
+      href: youtube.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/goutham1220
+    - icon: fa-youtube fa-lg
+      href: https://www.youtube.com/gooth
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/goutham-swaminathan-005379155/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

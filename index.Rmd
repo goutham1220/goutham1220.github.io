@@ -1,0 +1,8 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+
+Hi, my name is Goutham Swaminathan and I am currently a senior studying in the [AEDT](https://bcts.bergen.org/index.php/about-us/academy-programs/academy-for-the-engineering-and-design-technology) academy at the [Bergen County Academies](https://bcts.bergen.org/index.php/2016-05-10-17-30-50/bcts-campuses), a magnet high-school located in Hackensack, New Jersey that was recognized as the **#5 School in the Nation by Newsweek in 2015**. I am currently interested in pursuing computer science and data science. You can follow the projects I am working on through my [GitHub page](https://github.com/goutham1220). In my spare time, I maintain a small YouTube channel named ["Gooth"](https://www.youtube.com/gooth), which has garnered 300 subscribers and over 75,000 views. Thank you for visiting my website and I hope you enjoy it!
