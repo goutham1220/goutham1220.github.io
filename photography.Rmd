@@ -5,7 +5,7 @@ date: "November 23, 2018"
 output: html_document
 ---
 
-Here are some of the photographs I've takend over the past few months.
+Here are some of the photographs I've taken over the past few months.
 
 *Camera:* Sony a6300
 
