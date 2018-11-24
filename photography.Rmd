@@ -9,6 +9,6 @@ Here are some of the photographs I've takend over the past few months.
 
 *Camera:* Sony a6300
 
-<img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
-<img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
-<img src="images/me.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+<img src="images/blurry.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+<img src="images/week4-13.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
+<img src="images/fire hydrant.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="right">
