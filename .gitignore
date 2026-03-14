@@ -1,4 +1,11 @@
+# R project (legacy)
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
