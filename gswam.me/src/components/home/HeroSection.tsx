@@ -20,7 +20,7 @@ export function HeroSection() {
           transition={{ duration: 0.8, delay: 0.3, ease: "easeOut" }}
           className="mt-6 text-lg text-text-inverse/80 md:text-xl"
         >
-          Data Engineer · Photographer · Content Creator
+          Data Science · Photography · Cinematography · Public Health
         </motion.p>
         <motion.div
           initial={{ opacity: 0 }}
