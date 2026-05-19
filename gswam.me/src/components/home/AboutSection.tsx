@@ -4,12 +4,11 @@ import { AnimatedSection } from "@/components/ui/AnimatedSection";
 import { SectionTitle } from "@/components/ui/SectionTitle";
 
 const interests = [
-  "Data Engineering",
+  "Photography",
+  "Cinematography",
+  "Graphic Design",
+  "Video Editing",
   "Film Photography",
-  "YouTube",
-  "Language Learning",
-  "Travel",
-  "Open Source",
 ];
 
 export function AboutSection() {
@@ -33,15 +32,17 @@ export function AboutSection() {
           <AnimatedSection delay={0.2}>
             <div className="space-y-5">
               <p className="text-lg leading-relaxed text-text-light">
-                Hi! I&apos;m Goutham — a data engineer with a passion for photography,
-                content creation, and building things that matter. I graduated from
-                Rutgers University and currently work in data engineering, building
-                scalable pipelines and data infrastructure.
+                I am a graduate of the University of Rochester, with a BA in data
+                science and minors in computer science and epidemiology. I hope to
+                learn more about the disparities that underlie our health systems
+                and how to best help the communities affected by them. I am a
+                passionate and hard-working data science professional and am
+                excited to use what I learn on my journey to make a positive
+                impact through data-driven research.
               </p>
               <p className="text-lg leading-relaxed text-text-light">
-                Outside of work, I run a YouTube channel called GOOTH with over 250K+
-                views, shoot film and digital photography, and co-founded Refresh Bolivia
-                — a nonprofit that has raised $15K+ for clean water access.
+                This website is a collection of my work and personal projects
+                covering a variety of my interests over the years.
               </p>
               <div className="pt-4">
                 <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-text-light">

@@ -20,11 +20,11 @@ export const metadata: Metadata = {
     template: "%s | Goutham Swaminathan",
   },
   description:
-    "Personal website of Goutham Swaminathan — data engineer, photographer, and content creator.",
+    "Personal website of Goutham Swaminathan — Data Science | Photography | Cinematography | Public Health.",
   openGraph: {
     title: "Goutham Swaminathan",
     description:
-      "Data engineer, photographer, and content creator.",
+      "Data Science | Photography | Cinematography | Public Health.",
     url: "https://gswam.me",
     siteName: "gswam.me",
     type: "website",
