@@ -8,24 +8,20 @@ export interface Publication {
 
 export const publications: Publication[] = [
   {
-    title: "Developing Autonomous Vehicle Testing Environments using Procedurally Generated 3D Worlds",
-    authors: "Goutham Swaminathan et al.",
-    venue: "IEEE MIT Undergraduate Research Technology Conference",
-    year: 2019,
-    url: "https://ieeexplore.ieee.org/document/9281282",
+    title:
+      "Prevalence of Gestational Diabetes in India by Individual Socioeconomic, Demographic, and Clinical Factors",
+    authors: "G Swaminathan, A Swaminathan, DJ Corsi",
+    venue: "JAMA Network Open",
+    year: 2020,
+    url: "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2772684",
   },
   {
-    title: "High School Student Research in Remote Sensing and Geoscience",
-    authors: "Goutham Swaminathan et al.",
-    venue: "AGU Fall Meeting",
+    title:
+      "Parliamentary Constituency Factsheet for Indicators of Nutrition, Health and Development in India",
+    authors:
+      "R Kim, A Swaminathan, G Swaminathan, R Kumar, S Rajpal, J Blossom, et al.",
+    venue: "HCPDS Working Paper Series",
     year: 2019,
-    url: "https://ui.adsabs.harvard.edu/abs/2019AGUFMED23F..08S",
-  },
-  {
-    title: "A Survey of Haptic Feedback in Various Environments",
-    authors: "Goutham Swaminathan et al.",
-    venue: "IEEE International Symposium on Haptic, Audio and Visual Environments and Games",
-    year: 2019,
-    url: "https://ieeexplore.ieee.org/document/8921163",
+    url: "https://geographicinsights.iq.harvard.edu/publications?page=3",
   },
 ];
