@@ -9,6 +9,14 @@ export interface Publication {
 export const publications: Publication[] = [
   {
     title:
+      "Sentiment Analysis on Twitter Data Regarding Dental Issues Associated with Opioid Consumption",
+    authors: "G Swaminathan, Y Ouenniche, R Edara, M Kingsley",
+    venue: "Goergen Institute for Data Science Senior Design Day",
+    year: 2023,
+    url: "https://www.hajim.rochester.edu/senior-design-day/sentiment-analysis-on-twitter-data-regarding-dental-issues-associated-with-opioid-consumption/",
+  },
+  {
+    title:
       "Prevalence of Gestational Diabetes in India by Individual Socioeconomic, Demographic, and Clinical Factors",
     authors: "G Swaminathan, A Swaminathan, DJ Corsi",
     venue: "JAMA Network Open",
